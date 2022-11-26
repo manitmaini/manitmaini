@@ -1,5 +1,5 @@
 <h1 align="center">Hola , I'm Manit Maini!👋</h1>
-<h3 align="center">3 ⭐ CodeChef || 5 ⭐ Hackerrank(Python) || Competitive Coder || Third year student at ASE Coimbatore</h3>
+<h3 align="center">3 ⭐ CodeChef || 5 ⭐ Hackerrank(Python) || Competitive Coder || Final year student at ASE Coimbatore</h3>
 
 - 🏫 I’m currently pursuing my B.Tech Electrical and Computer Engineering in Amrita School of Engineering, Coimbatore
 - 🔭 I’m currently learning AI and Cloud.`
