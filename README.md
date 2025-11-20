@@ -15,8 +15,8 @@
 <a href="https://www.linkedin.com/in/manit-maini-36579788/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-line-color.svg" alt="Manit Maini" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dil_se_manit/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-round-line-color.svg" alt="manit_13" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/manit_13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manit_13" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/manitmaini" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="saaketh89" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/manitmaini/profile" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiskq6uHR_nlUGFkFmsdNAmSiR_1shiLz3fw&usqp=CAU" alt="saaketh89" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/manitmaini" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="manit_13" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/manitmaini/profile" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiskq6uHR_nlUGFkFmsdNAmSiR_1shiLz3fw&usqp=CAU" alt="manit_13" height="30" width="40" /></a>
 </p>
   
 
